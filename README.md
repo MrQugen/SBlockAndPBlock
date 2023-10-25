@@ -27,7 +27,7 @@ string decryptedText = Decrypt(ciphertext, key);
 Console.WriteLine("Розшифрований текст: " + decryptedText);
 
 Зашифрований текст: 1B2BtLfOrjBqoL/8HtIiWA==
-Розшифрований текст: Привіт, світе!
+Розшифрований текст: Привіт, світе!```
 
 Опис методів
 GenerateSBox(string key)
